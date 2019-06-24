@@ -1,0 +1,72 @@
+{
+    "type": "stream-app",
+    "namespace": "record",
+    "name": "calender-avro",
+    "fields": [
+        {
+            "name": "year",
+            "type": "int"
+        },
+        {
+            "name": "weekNo",
+            "type": "int"
+        },
+        {
+            "name": "weekday",
+            "type": {
+                "type": "array",
+                "items":{
+                    "name": "Calender",
+                    "type": "record",
+                    "fields":[
+                        {   "name": "Monday",
+                            "type": "int"
+                        },
+                        {   "name": "Tuesday",
+                            "type": "int"
+                        },
+                        {   "name": "Wednesday",
+                            "type": "int"
+                        },
+                        {   "name": "Thursday",
+                            "type": "int"
+                        },
+                        {   "name": "Friday",
+                            "type": "int"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "name": "weekend",
+            "type": {
+                "type": "array",
+                "items":{
+                     "name": "Calender",
+                     "type": "record",
+                     "fields":[
+                         {   "name": "Saturday",
+                             "type": "int"
+                         },
+                         {   "name": "Sunday",
+                             "type": "int"
+                         }
+                     ]
+                }
+            }
+        },
+        {
+             "name": "weekdayTotal",
+             "type": "int"
+        },
+        {
+             "name": "weekendTotal",
+             "type": "int"
+        },
+        {
+              "name": "ratio",
+              "type": "int"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/knoldus/Desktop/Assignment/kafka-stream-app/target/scala-2.13/kafka-stream-app_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignment/kafka-stream-app/target/scala-2.13/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignment/kafka-stream-app/target/scala-2.13/classes/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	calender-v1.avsc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignment/kafka-stream-app/target/scala-2.13/classes/calender-v1.avsc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/streamapp/StreamApplication.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignment/kafka-stream-app/target/scala-2.13/classes/com/knoldus/streamapp/StreamApplication.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/streamapp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignment/kafka-stream-app/target/scala-2.13/classes/com/knoldus/streamapp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/streamapp/StreamApplication$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignment/kafka-stream-app/target/scala-2.13/classes/com/knoldus/streamapp/StreamApplication$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignment/kafka-stream-app/target/scala-2.13/classes/com/knoldus[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/streamapp/StreamApplication$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignment/kafka-stream-app/target/scala-2.13/classes/com/knoldus/streamapp/StreamApplication$$anon$1.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
